@@ -148,7 +148,7 @@ See also the general topics below: especially computer graphics, data structures
 ### Regular Expressions (Regex)
 
 - [Regular-Expressions.info](http://regular-expressions.info) (tutorial and reference)
-- [refiddle](http://refiddle.com), [regex101](https://regex101.com), [regexpal](http://www.regexpal.com) (online regex testers)
+- [refiddle](http://refiddle.com), [regex101](https://regex101.com), [regexpal](http://www.regexpal.com), [extendsclass](https://extendsclass.com/regex-tester.html) (online regex testers)
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp)
   - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) in particular is well worth a read
 - [Matching regular expressions with derivatives](http://matt.might.net/articles/implementation-of-regular-expression-matching-in-scheme-with-derivatives)
